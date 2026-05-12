@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Namma Mela</string>
+    <string name="app_subtitle">ನಮ್ಮ ಮೇಳ</string>
+    <string name="app_tagline">Digital Box Office for Rural Theater</string>
+    <string name="tab_play">Play</string>
+    <string name="tab_cast">Cast</string>
+    <string name="tab_seats">Seats</string>
+    <string name="tab_fanwall">Fan Wall</string>
+    <string name="manager_mode">Manager Mode</string>
+    <string name="enter_pin">Enter Manager PIN</string>
+    <string name="set_pin">Set a Manager PIN (first time)</string>
+    <string name="default_pin_hint">Default PIN on first launch: 1234</string>
+</resources>
